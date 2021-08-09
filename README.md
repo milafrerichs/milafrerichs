@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**milafrerichs/milafrerichs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Senior Fullstack Software Engineer who
+- loves to write test
+- loves (small) PRs
+- despises code-style disucssions (just use a linter and someones config)
+- despises tool discussions (just pick one)
 
-Here are some ideas to get you started:
+☕️🐕❄️☀️  
+🥃  
+⚾️🏈🏄‍♂️🏊‍♂️🏂🧗‍♀️  
+🍣🍔🌮🌯🍕  
+🗺🏔🏟✈️🚍🚃  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I have experience with the following languages
+
+- Javascript
+- Ruby
+- Python
+- R
+
+and the following libraries
+
+... too many to list them all, sorry :)
